@@ -1,1 +1,3 @@
 language: generic
+notifications:
+  slack: devops-rcf3741:bqQHl3Bc3uvzWLmJ9uFmZ3sV
